@@ -1,0 +1,16 @@
+# Core libraries
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter support
+jupyter
+
+# for deployment phase
+flask
+streamlit
+joblib
