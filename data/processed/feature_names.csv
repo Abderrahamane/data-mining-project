@@ -1,0 +1,58 @@
+feature
+critic_score
+has_critic_score
+release_year
+game_age
+na_sales_ratio
+jp_sales_ratio
+pal_sales_ratio
+other_sales_ratio
+console_GBA
+console_Other
+console_PC
+console_PS
+console_PS2
+console_PS3
+console_PS4
+console_Wii
+console_X360
+console_XB
+genre_Action-Adventure
+genre_Adventure
+genre_Board Game
+genre_Education
+genre_Fighting
+genre_MMO
+genre_Misc
+genre_Music
+genre_Party
+genre_Platform
+genre_Puzzle
+genre_Racing
+genre_Role-Playing
+genre_Sandbox
+genre_Shooter
+genre_Simulation
+genre_Sports
+genre_Strategy
+genre_Visual Novel
+publisher_Atari
+publisher_Capcom
+publisher_EA Sports
+publisher_Electronic Arts
+publisher_Konami
+publisher_Other
+publisher_Sega
+publisher_Sony Computer Entertainment
+publisher_THQ
+publisher_Ubisoft
+developer_Capcom
+developer_EA Canada
+developer_EA Tiburon
+developer_Konami
+developer_Other
+developer_Traveller's Tales
+developer_Ubisoft
+developer_Ubisoft Montreal
+developer_Unknown
+developer_Visual Concepts
