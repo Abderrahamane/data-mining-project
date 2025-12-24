@@ -3,10 +3,6 @@ critic_score
 has_critic_score
 release_year
 game_age
-na_sales_ratio
-jp_sales_ratio
-pal_sales_ratio
-other_sales_ratio
 console_GBA
 console_Other
 console_PC
