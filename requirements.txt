@@ -14,3 +14,6 @@ jupyter
 flask
 streamlit
 joblib
+
+xgboost
+kagglehub
